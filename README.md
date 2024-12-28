@@ -26,7 +26,7 @@ inclusions ou des caractéristiques externes appelées imperfections. Les diaman
 ni imperfection sont rares, mais la plupart des caractéristiques ne peuvent être observées qu’à
 l’aide d’une loupe.
           
-**3. Dimensions :**
+**2.3 Dimensions :**
 
 *(a) x :* Longueur en millimètres
 
@@ -34,7 +34,7 @@ l’aide d’une loupe.
 
 *(c) z :* Profondeur en millimètres
 
-**4. Autres caractéristiques :**
+**2.4 Autres caractéristiques :**
 
 *(a) Profondeur (Depth) :* La profondeur du diamant correspond à sa hauteur (en millimètres),
 mesurée de la culette (pointe inférieure) à la table (surface plate supérieure).
